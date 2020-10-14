@@ -1,1 +1,1 @@
-# github-notications
+# github-notication
